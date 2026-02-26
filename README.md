@@ -1,4 +1,4 @@
-# Criando um APPde Organização de Finanças Pessoais com Vibe Coding
+# Criando um APP de Organização de Finanças Pessoais com Vibe Coding
 
 # Fluxo de Navegação – Aplicativo de Finanças Pessoais Conversacional
 
